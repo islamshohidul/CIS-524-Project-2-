@@ -1,0 +1,20 @@
+real y = 3.0 ;
+
+let
+ 
+    int x = 7 ; 
+in
+ 
+    real ( ( real ( x ) + y ) / ( real ( x ) - y ) )
+
+end ;  
+
+let 
+     x = 8 ; 
+in 
+     ( x + y )
+
+end ;   
+       	
+
+       	
