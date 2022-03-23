@@ -58,7 +58,7 @@ Below is test example:
 
         end ; 
 
-        out put
+        output:
 
         30
 
@@ -86,7 +86,7 @@ For another example
 
         end ;   
 
-        Out put:
+        Output:
 
         2.5
 
