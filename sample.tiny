@@ -1,0 +1,28 @@
+real m , n = 4.0 , 3.0 ;
+
+let
+ 
+    int x = 5 ; 
+in
+ 
+    int ( x + x ^ x )
+
+end ;  
+
+let 
+    real m , pi = 10.0 , 3.1416 ; 
+in 
+    real ( pi * m * m )
+
+end ;   
+       	
+
+let
+ 
+    real x , y = m + n , m - n ; 
+in
+ 
+    real ( x * y )
+
+end ;    
+       	
