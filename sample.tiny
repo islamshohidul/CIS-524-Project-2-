@@ -5,7 +5,7 @@ let
     int x = 5 ; 
 in
  
-    int ( x + x ^ x )
+    int ( x + x * x )
 
 end ;  
 
