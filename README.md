@@ -24,6 +24,10 @@ In this project you are asked to write an interpreter which uses the top-down re
 
                     <base>          ::= (<expr>) | id | num | <type> ( id )  
         
+The input file name given from the command line. For example,
+spirit % ./let.py sample.tiny
+
+The interpreter let.py reads the program file sample.tiny, checks the syntax and outputs the result for each let-in-end if the it is legitimate; otherwise, the interpreter prints "Error". Note that global variables are declared at the beginning of a program, while local variables are declared and valid whithin a let-in-end block. 
 
 Below is test example: 
 
