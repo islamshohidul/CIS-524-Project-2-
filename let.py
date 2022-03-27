@@ -1,8 +1,7 @@
 #!/usr/bin/python3
 
 
-# Author Md Shohidul Islam & Joel Bellaprla
-
+# Author Md Shohidul Islam 2816885
 
 
 # It's provide single token every time
